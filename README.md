@@ -64,17 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TableTemplates provides premium Excel and Google Sheets spreadsheet templates that function like small software products. Each template is programmatically generated, includes protected sheets, data validation, named ranges, native dashboards, and print‑ready layouts, and is rigorously tested to the cent in both Excel and Google Sheets builds. The company offers a marketplace of over 300 templates across business, finance, real‑estate, and personal planning categories, with a 14‑day money‑back guarantee and free updates.
+TableTemplates provides premium spreadsheet templates for Excel and Google Sheets, built programmatically and tested to the cent. Each template includes protected sheets, data validation, named ranges, and printable dashboards, with a 14‑day money‑back guarantee and free updates. The company focuses on business, finance, and personal productivity use‑cases, offering both free and paid templates.
 
-**Areas:** Company · Spreadsheet · Templates · Excel · GoogleSheets
+**Areas:** Company · Templates · Excel · GoogleSheets · Business
 
 ## TableTemplates on APIs.io
 
 Everything profiled for TableTemplates is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tabletemplates-com/](https://apis.io/providers/tabletemplates-com/)** — or go straight to one of the APIs or properties below.
-
-### APIs (1)
-
-- [TableTemplates API](https://apis.io/apis/tabletemplates-com/tabletemplates-api/) — API for TableTemplates marketplace and template management.
 
 ### Published properties
 
@@ -102,18 +98,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 14.9** — emerging · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 13.3** — emerging · rubric 0.28.0 · scored 2026-11-26
 
 | Facet | Score |
 |---|---|
-| Discoverability | 64.3 |
+| Discoverability | 48.3 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 50.6 |
 
-**Agent readiness 3.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -139,9 +135,6 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
 **Regulatory alignment 3.9** — Horizontal (data, software, accessibility, platform)
 
